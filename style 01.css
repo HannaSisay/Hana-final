@@ -1,0 +1,94 @@
+body {
+  width: 100%;
+  padding: auto;
+  padding-top: 0%;
+  background-color: rgb(230, 220, 220);
+}
+p1{
+    width:90%
+}
+
+#pages {
+    background-image: url(img/nav.jpg); height 100%;  background-size: cover; 
+    text-align: center; 
+    padding: 10%;
+    background-repeat: no-repeat;
+    width: auto;
+}
+
+p {
+  color: black;
+  text-align: justify;
+}
+
+/*----------This is Buttons------------*/
+
+li {
+    display: grid;
+    word-spacing: 1pt;
+    list-style-type: none;
+    margin-right: 1%;
+    margin-bottom: 1%;
+}
+
+.button {
+    text-decoration: none; 
+    color: black; 
+    font-style: italic; 
+    font-size: 15pt;
+    background-size: %;
+    background-color:rgba(255, 255, 255, 0.5);
+    padding: 1%;
+    
+}
+
+.button:hover{
+    color: rgb(63, 44, 44); 
+    background-color: rgb(179, 217, 240);
+    padding 1%;
+}
+
+ /*------------------------------------*/   
+
+h1 {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}    
+
+.intro {
+    background-color: rgba(53, 110, 172, 0.3);
+
+}
+ 
+
+.container-1 {
+    display: flex; }
+
+.box-1 {
+     flex: 1; order: 1;
+    }
+.box-2{ 
+    flex: 1;  order: 2;
+}
+.container-1 div{
+    border: 1px #ccc solid; 
+    padding:5%;
+} 
+
+.box-1 img {
+    size: 100%;
+}
+.button,link{
+    font-color: red 
+    width= "20%"
+
+}
+    
+p3{
+    color:blue
+}
+
+
+
+
+

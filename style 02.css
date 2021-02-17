@@ -1,0 +1,28 @@
+/*---- for enviromental club----*/
+#mainheader{
+        text-align: center; 
+        padding: 10%;
+        background-repeat: no-repeat;
+        width: auto;
+      }
+
+    body {
+        width: 80%;
+        padding: 10%;
+        padding-top: 10%;
+        background-image:url(img/bk\ 13.jpg); height 100%;  background-size: cover;
+        text-align: justify;
+        padding-side:justify;
+      }
+       p1{
+        
+        text-align: justify;
+        padding-side:justify;
+      }
+     
+      
+      p {
+        color: black;
+        text-align: justify;
+      }
+      
