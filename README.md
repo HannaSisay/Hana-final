@@ -1,1 +1,1 @@
-# Hana-final
+ I have prepared this website specifically for EIABC students and prospective EIABC students. This website will help them navigate through activities in the campus and create their passion with their class mates. Prospective student also will get guidance on their future career. Graduates will share their experiance to juniors and freshmans and give advice for their future.  .# Hana-final
