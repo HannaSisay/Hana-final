@@ -9,7 +9,7 @@ p1{
 }
 
 #pages {
-    background-image: url(img/nav.jpg); height 100%;  background-size: cover; 
+    background-image: url(nav.jpg); height 100%;  background-size: cover; 
     text-align: center; 
     padding: 10%;
     background-repeat: no-repeat;
